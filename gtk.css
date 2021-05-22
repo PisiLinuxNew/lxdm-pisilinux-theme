@@ -1,0 +1,48 @@
+#lxdm {
+	background-image: url("wave.png");
+	background-repeat: round;
+}
+
+#bottom_pane {
+	background-color: rgba(0,0,0,0.24);
+}
+
+#time {
+	font: 22px Sans;
+	color: #ffffff;
+}
+
+#label_welcome {
+	font: 72px Mono;
+	color: #ffffff;
+}
+
+#exit {
+	font: 18px Sans;
+	color: #6A1B9A;
+}
+
+#prompt {
+	font: 18px Sans;
+	color: #6A1B9A;
+}
+
+#label_options {
+	font: 22px Sans;
+	color: #6A1B9A;
+}
+
+#label_lang {
+	font: 18px Sans;
+	color: #6A1B9A;
+}
+
+#label_desktop {
+	font: 18px Sans;
+	color: #6A1B9A;
+}
+
+#label_keyboard {
+	font: 18px Sans;
+	color: #6A1B9A;
+}
